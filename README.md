@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @turtlebot1024
-- 👀 I’m interested in ROBOTICS
+
 - 📫 How to reach me ...
+seunggyu.hong@halla.com
